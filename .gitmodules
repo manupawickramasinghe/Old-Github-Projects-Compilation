@@ -1,0 +1,9 @@
+[submodule "PycharmProjects"]
+	path = PycharmProjects
+	url = git@github.com:manupawickramasinghe/PycharmProjects--Manupa.git
+[submodule "VegaProjects"]
+	path = VegaProjects
+	url = git@github.com:manupawickramasinghe/VegaProjects-Manupa.git
+[submodule "VegaDatalogger"]
+	path = VegaDatalogger
+	url = git@github.com:manupawickramasinghe/Vega-Datalogger-Code.git
